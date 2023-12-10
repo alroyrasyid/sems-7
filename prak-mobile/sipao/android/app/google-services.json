@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323319251610",
+    "project_id": "sipao-ab14b",
+    "storage_bucket": "sipao-ab14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323319251610:android:9d92624ee2397c8350d523",
+        "android_client_info": {
+          "package_name": "com.example.sipao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOHRoeH3sy0lUGXjImHSEd_jbIkoBsRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
